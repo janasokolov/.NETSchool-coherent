@@ -1,0 +1,15 @@
+C:\Users\sokol\Desktop\skola\.netSchool\TrainingManagmentSystem\TrainingManagmentSystem\bin\Debug\net8.0\TrainingManagmentSystem.exe
+C:\Users\sokol\Desktop\skola\.netSchool\TrainingManagmentSystem\TrainingManagmentSystem\bin\Debug\net8.0\TrainingManagmentSystem.deps.json
+C:\Users\sokol\Desktop\skola\.netSchool\TrainingManagmentSystem\TrainingManagmentSystem\bin\Debug\net8.0\TrainingManagmentSystem.runtimeconfig.json
+C:\Users\sokol\Desktop\skola\.netSchool\TrainingManagmentSystem\TrainingManagmentSystem\bin\Debug\net8.0\TrainingManagmentSystem.dll
+C:\Users\sokol\Desktop\skola\.netSchool\TrainingManagmentSystem\TrainingManagmentSystem\bin\Debug\net8.0\TrainingManagmentSystem.pdb
+C:\Users\sokol\Desktop\skola\.netSchool\TrainingManagmentSystem\TrainingManagmentSystem\obj\Debug\net8.0\TrainingManagmentSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sokol\Desktop\skola\.netSchool\TrainingManagmentSystem\TrainingManagmentSystem\obj\Debug\net8.0\TrainingManagmentSystem.AssemblyInfoInputs.cache
+C:\Users\sokol\Desktop\skola\.netSchool\TrainingManagmentSystem\TrainingManagmentSystem\obj\Debug\net8.0\TrainingManagmentSystem.AssemblyInfo.cs
+C:\Users\sokol\Desktop\skola\.netSchool\TrainingManagmentSystem\TrainingManagmentSystem\obj\Debug\net8.0\TrainingManagmentSystem.csproj.CoreCompileInputs.cache
+C:\Users\sokol\Desktop\skola\.netSchool\TrainingManagmentSystem\TrainingManagmentSystem\obj\Debug\net8.0\TrainingManagmentSystem.sourcelink.json
+C:\Users\sokol\Desktop\skola\.netSchool\TrainingManagmentSystem\TrainingManagmentSystem\obj\Debug\net8.0\TrainingManagmentSystem.dll
+C:\Users\sokol\Desktop\skola\.netSchool\TrainingManagmentSystem\TrainingManagmentSystem\obj\Debug\net8.0\refint\TrainingManagmentSystem.dll
+C:\Users\sokol\Desktop\skola\.netSchool\TrainingManagmentSystem\TrainingManagmentSystem\obj\Debug\net8.0\TrainingManagmentSystem.pdb
+C:\Users\sokol\Desktop\skola\.netSchool\TrainingManagmentSystem\TrainingManagmentSystem\obj\Debug\net8.0\TrainingManagmentSystem.genruntimeconfig.cache
+C:\Users\sokol\Desktop\skola\.netSchool\TrainingManagmentSystem\TrainingManagmentSystem\obj\Debug\net8.0\ref\TrainingManagmentSystem.dll
