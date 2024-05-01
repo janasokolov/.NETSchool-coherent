@@ -1,0 +1,15 @@
+C:\Users\sokol\Desktop\skola\.netSchool\homework2\homework2\bin\Debug\net8.0\Planetarium.exe
+C:\Users\sokol\Desktop\skola\.netSchool\homework2\homework2\bin\Debug\net8.0\Planetarium.deps.json
+C:\Users\sokol\Desktop\skola\.netSchool\homework2\homework2\bin\Debug\net8.0\Planetarium.runtimeconfig.json
+C:\Users\sokol\Desktop\skola\.netSchool\homework2\homework2\bin\Debug\net8.0\Planetarium.dll
+C:\Users\sokol\Desktop\skola\.netSchool\homework2\homework2\bin\Debug\net8.0\Planetarium.pdb
+C:\Users\sokol\Desktop\skola\.netSchool\homework2\homework2\obj\Debug\net8.0\Planetarium.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sokol\Desktop\skola\.netSchool\homework2\homework2\obj\Debug\net8.0\Planetarium.AssemblyInfoInputs.cache
+C:\Users\sokol\Desktop\skola\.netSchool\homework2\homework2\obj\Debug\net8.0\Planetarium.AssemblyInfo.cs
+C:\Users\sokol\Desktop\skola\.netSchool\homework2\homework2\obj\Debug\net8.0\Planetarium.csproj.CoreCompileInputs.cache
+C:\Users\sokol\Desktop\skola\.netSchool\homework2\homework2\obj\Debug\net8.0\Planetarium.sourcelink.json
+C:\Users\sokol\Desktop\skola\.netSchool\homework2\homework2\obj\Debug\net8.0\Planetarium.dll
+C:\Users\sokol\Desktop\skola\.netSchool\homework2\homework2\obj\Debug\net8.0\refint\Planetarium.dll
+C:\Users\sokol\Desktop\skola\.netSchool\homework2\homework2\obj\Debug\net8.0\Planetarium.pdb
+C:\Users\sokol\Desktop\skola\.netSchool\homework2\homework2\obj\Debug\net8.0\Planetarium.genruntimeconfig.cache
+C:\Users\sokol\Desktop\skola\.netSchool\homework2\homework2\obj\Debug\net8.0\ref\Planetarium.dll
