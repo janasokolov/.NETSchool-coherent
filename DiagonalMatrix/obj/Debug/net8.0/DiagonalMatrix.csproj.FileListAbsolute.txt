@@ -1,0 +1,15 @@
+C:\Users\sokol\Desktop\skola\.netSchool\DiagonalMatrix\DiagonalMatrix\obj\Debug\net8.0\DiagonalMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sokol\Desktop\skola\.netSchool\DiagonalMatrix\DiagonalMatrix\obj\Debug\net8.0\DiagonalMatrix.AssemblyInfoInputs.cache
+C:\Users\sokol\Desktop\skola\.netSchool\DiagonalMatrix\DiagonalMatrix\obj\Debug\net8.0\DiagonalMatrix.AssemblyInfo.cs
+C:\Users\sokol\Desktop\skola\.netSchool\DiagonalMatrix\DiagonalMatrix\obj\Debug\net8.0\DiagonalMatrix.csproj.CoreCompileInputs.cache
+C:\Users\sokol\Desktop\skola\.netSchool\DiagonalMatrix\DiagonalMatrix\obj\Debug\net8.0\DiagonalMatrix.sourcelink.json
+C:\Users\sokol\Desktop\skola\.netSchool\DiagonalMatrix\DiagonalMatrix\bin\Debug\net8.0\DiagonalMatrix.exe
+C:\Users\sokol\Desktop\skola\.netSchool\DiagonalMatrix\DiagonalMatrix\bin\Debug\net8.0\DiagonalMatrix.deps.json
+C:\Users\sokol\Desktop\skola\.netSchool\DiagonalMatrix\DiagonalMatrix\bin\Debug\net8.0\DiagonalMatrix.runtimeconfig.json
+C:\Users\sokol\Desktop\skola\.netSchool\DiagonalMatrix\DiagonalMatrix\bin\Debug\net8.0\DiagonalMatrix.dll
+C:\Users\sokol\Desktop\skola\.netSchool\DiagonalMatrix\DiagonalMatrix\bin\Debug\net8.0\DiagonalMatrix.pdb
+C:\Users\sokol\Desktop\skola\.netSchool\DiagonalMatrix\DiagonalMatrix\obj\Debug\net8.0\DiagonalMatrix.dll
+C:\Users\sokol\Desktop\skola\.netSchool\DiagonalMatrix\DiagonalMatrix\obj\Debug\net8.0\refint\DiagonalMatrix.dll
+C:\Users\sokol\Desktop\skola\.netSchool\DiagonalMatrix\DiagonalMatrix\obj\Debug\net8.0\DiagonalMatrix.pdb
+C:\Users\sokol\Desktop\skola\.netSchool\DiagonalMatrix\DiagonalMatrix\obj\Debug\net8.0\DiagonalMatrix.genruntimeconfig.cache
+C:\Users\sokol\Desktop\skola\.netSchool\DiagonalMatrix\DiagonalMatrix\obj\Debug\net8.0\ref\DiagonalMatrix.dll
