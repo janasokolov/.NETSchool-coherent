@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Queue", "Queue\Queue.csproj", "{A1982F95-39D0-4B92-8CB5-C3CE0E6FCD11}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueueTesting", "QueueTesting\QueueTesting.csproj", "{2D6A8F5E-415E-4939-A14E-82BE7AB5E33E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1982F95-39D0-4B92-8CB5-C3CE0E6FCD11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1982F95-39D0-4B92-8CB5-C3CE0E6FCD11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1982F95-39D0-4B92-8CB5-C3CE0E6FCD11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1982F95-39D0-4B92-8CB5-C3CE0E6FCD11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D6A8F5E-415E-4939-A14E-82BE7AB5E33E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D6A8F5E-415E-4939-A14E-82BE7AB5E33E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D6A8F5E-415E-4939-A14E-82BE7AB5E33E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D6A8F5E-415E-4939-A14E-82BE7AB5E33E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F77D84F1-C549-4D69-90AD-2FF6A35EB794}
+	EndGlobalSection
+EndGlobal
